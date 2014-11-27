@@ -1,0 +1,75 @@
+1 January	Wednesday	New Year's Day	AR ML MN MZ NL PY SK TN
+7 January	Tuesday	Guru Govind Singh Jayanti	CH HR PB
+13 January	Monday	Bhogi	AP
+14 January	Tuesday	Milad-un-Nabi (Prophet's Birthday)	AN AP CH DL KA KL MH MP MZ PY TN UK UP
+14 January	Tuesday	Makara Sankranti	AN AP AR AS GJ KA PY TN
+14 January	Tuesday	Pongal	AN AP AR AS GJ KA PY TN
+15 January	Wednesday	Thiruvalluvar Day	PY TN
+16 January	Thursday	Uzhavar Thirunal	TN
+23 January	Thursday	Netaji Subhas Chandra Bose Jayanti	TR WB
+26 January	Sunday	Republic Day (National Day)	National
+4 February	Tuesday	Vasanta Panchami/Shree Panchami	HR OR TR WB
+14 February	Friday	Guru Ravidas Jayanti	CH HR PB
+19 February	Wednesday	Chatrapati Shivaji Maharaj Jayanti	MH
+27 February	Thursday	Maha Shivaratri	AP CG CH GJ HP HR JK KA KL MH MP OR UK UP
+15 March	Saturday	Kashiramji Jayanti	UP
+16 March	Sunday	Doljatra / Holika Dahan	AS ML MN PB UP WB
+17 March	Monday	Holi	AN AR BR CG CH DD DL DN GA GJ HP JH JK LD MH MP MZ OR RJ SK UK UP
+31 March	Monday	Gudi Padva / Ugadi / Chetti Chand	AP GA KA MH UP
+31 March	Monday	Telugu New Year	PY TN
+1 April	Tuesday	Annual Accounts Closing (Bank Holiday)	Bank Holiday
+5 April	Saturday	Babu Jagjivan Ram's Birthday	AP
+7 April	Monday	Ram Navami (Smarta)	AP GJ HR
+8 April	Tuesday	Ram Navami (Vaishnava)	BR CH DL MH MP OR PB RJ SK UK UP
+13 April	Sunday	Mahavir Jayanti	AN CG DL HP KA MH MP RJ TN UK UP
+14 April	Monday	Dr Ambedkar Jayanti	AP BR CH DL GJ HR JK KA KL MH OR PY TN UK UP
+14 April	Monday	Tamil New Year	TN
+14 April	Monday	Vishu	KL
+15 April	Tuesday	Bengali New Year /Vaisakh / Masadi	TR WB
+18 April	Friday	Good Friday	AN AP AR AS BR CH DD DL DN GA JH KA KL LD MH ML MN MP MZ NL PY SK TN UK UP WB
+1 May	Thursday	Maharashtra Day	MH
+1 May	Thursday	Maharshi Parasuram Jayanti	UP
+1 May	Thursday	May Day	AP AS BR GA KA KL MN PY TN TR WB
+1 May	Thursday	Shiv Jayanthi	KA
+2 May	Friday	Basava Jayanti	KA
+13 May	Tuesday	Hazrat Alis Birthday	UP
+14 May	Wednesday	Buddha Purnima	AN AR CG DL HP JK MH MP MZ UK
+13 June	Friday	Sant Kabir Jayanti	HR
+16 June	Monday	Martyrdom Day of Sri Guru Arjun Dev Ji	PB
+25 July	Friday	Jumat-ul-Wida	JK UK UP
+29 July	Tuesday	Ramazan / Idu'l Fitr (End of Ramadan)	AN AP AR AS BR CG CH DD DL DN GJ HP HR JK KA LD MH ML MN MP MZ NL OR PB PY RJ SK TN TR UK WB
+30 July	Wednesday	Teej	HR
+10 August	Sunday	Raksha Bandhan	GJ RJ UK UP
+15 August	Friday	Independence Day	National
+17 August	Sunday	Janmashtami (Smarta)	BR OR
+17 August	Sunday	Sri Krishna Jayanti	TN
+18 August	Monday	Janmashtami (Vaishnava)	CH DL GJ HR JK PB RJ UK UP
+18 August	Monday	Parsi New Year(Shahenshahi)	MH
+29 August	Friday	Ganesh Chaturthi / Vinayaka Chaturthi	AP GA GJ MH OR PY TN
+6 September	Saturday	First Onam	KL
+7 September	Sunday	Onam / Thiruonam	KL PY
+21 September	Sunday	Sree Narayana Guru Samdhi Day	KL
+23 September	Tuesday	Haryana Veer and Shahidi Divas	HR
+24 September	Wednesday	Mahalaya	KA WB
+25 September	Thursday	Maharaja Agrasen Jayanti	HR
+30 September	Tuesday	Mid-Year Accounts Closing (Bank Holiday)	Bank Holiday
+1 October	Wednesday	Dussehra (Maha Saptami)	SK TR WB
+2 October	Thursday	Dussehra (Maha Ashtami)	AP AR AS ML MN OR TR WB
+2 October	Thursday	Mahatma Gandhi's Birthday	National
+3 October	Friday	Dussehra (Maha Navami)	BR KA KL ML NL PY SK TN UK UP WB
+4 October	Saturday	Dussehra (Vijaya Dashami)	AN AP AS BR CG CH DD DL DN GA GJ HP HR JK KL LD MH ML MP MZ NL OR RJ TN TR UK UP WB
+6 October	Monday	Bakri Id / Idu'l Zuha (Feast of Sacrifice)	AN AP AR AS BR CG DD DL DN GJ HR JH JK KA KL LD MH ML MN MP NL OR PY RJ TN TR UK UP WB
+8 October	Wednesday	Birthday of Maharishi Valmiki Ji	HR KA PB
+8 October	Wednesday	Lakshmi Puja	TR WB
+22 October	Wednesday	Deepavali (Festival of Lights)	AP CH DL GJ HR KL MH PY TN WB
+22 October	Wednesday	Naraka Chaturdashi	KA
+23 October	Thursday	Diwali (Festival of Lights)	AN AR AS BR CG DD DN GA HP JH JK LD ML MP MZ NL OR PB RJ SK TR UK UP
+24 October	Friday	Balipadyami Diwali (Gobardhan Puja / Vishavakarma Day)	GJ HR KA MH UK UP
+25 October	Saturday	Bhai Duj / Chitragupth Jayanti	MH UK UP
+1 November	Saturday	Haryana Day	HR
+1 November	Saturday	Kannada Rajyothsava	KA
+4 November	Tuesday	Muharram	AN AP BR CG CH DL HP JK KA MH MP OR RJ TN UK UP WB
+6 November	Thursday	Guru Nanak Jayanti	AN CG CH DL HP HR JK MH MP NL PB RJ UK UP WB
+10 November	Monday	Kanaka Jayanti	KA
+25 December	Thursday	Christmas Day	AN AP AR AS BR CG CH DD DL DN GA GJ HP JK KA KL LD MH ML MN MP MZ NL OR PB PY RJ SK TN TR UK UP WB
+28 December	Sunday	Guru Govind Singh Jayanti	CH HR PB
